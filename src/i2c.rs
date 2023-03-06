@@ -86,6 +86,7 @@ i2c_pins! {
     feature = "stm32f038",
     feature = "stm32f042",
     feature = "stm32f048",
+    feature = "stm32f072",
 ))]
 i2c_pins! {
     I2C1 => {

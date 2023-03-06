@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 
 - Provide getters to serial status flags idle/txe/rxne/tc.
+- Added `impl I2C1 for PB{10,11}<Alternate<AF1>>` on STM32F072x
 
 ### Fixed
 
